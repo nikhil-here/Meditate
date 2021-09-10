@@ -1,5 +1,3 @@
 # Meditate
-________
-![HomeScreen](img/one.png)
-________
-![HomeScreen](img/two.png)
+--- | ---
+![HomeScreen](img/one.png) | ![HomeScreen](img/two.png)
